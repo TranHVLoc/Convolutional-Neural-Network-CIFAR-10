@@ -1,0 +1,2 @@
+Hello this is just a git test to ensure the consistent communication 
+between remote repo and local machine
